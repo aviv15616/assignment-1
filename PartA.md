@@ -1,4 +1,4 @@
-<“rtl=”dir” he=”lang div>
+<div lang=“he” dir=”rtl”>
 # Part A- ideas
 
 
