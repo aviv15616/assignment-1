@@ -1,5 +1,5 @@
 <div lang=“he” dir=”rtl”>
-# Part A- ideas
+Part A: ideas
 
 
 
